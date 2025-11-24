@@ -22,8 +22,11 @@ It includes notes, Jupyter notebooks, exercises, and mini-projects completed dai
 - Become internship-ready
 
 ## Progress Tracking
-| Day | Videos Covered | Folder | GitHub Commit Link |
-|-----|----------------|--------|--------------------|
+| Day | Videos Covered | Folder |          GitHub Commit Link                   |
+|-----|----------------|--------|-----------------------------------------------|
+|  1  |     1-2-3-4    | Day 1  |  12ca62592cfed156c92a6e144f1e542bc0c91512     |
+|-----|----------------|--------|-----------------------------------------------|
+|
 
 ## Mini Projects
 - Project 1: House Price Prediction
